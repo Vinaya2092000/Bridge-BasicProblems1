@@ -12,7 +12,6 @@ namespace ProgramA
         {
             int i, n;
             double sum = 0.0;
-
             Console.WriteLine("Enter the number of terms : ");
             n = Convert.ToInt32(Console.ReadLine());
             // (1/1 +1/2 +..... 1/n)
