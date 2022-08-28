@@ -23,6 +23,11 @@
                     LeapYear leap = new LeapYear();
                     leap.Leap();
                     break;
+
+                case 3:
+                    Power2 pow = new Power2();
+                    pow.Power();
+                    break;
             }
         }
     }
