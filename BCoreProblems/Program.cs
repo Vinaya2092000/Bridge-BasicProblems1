@@ -23,26 +23,6 @@
                     flipcoin.Flip();
                     break;
 
-                case 2:
-                    LeapYear leap = new LeapYear();
-                    leap.Leap();
-                    break;
-
-
-                case 3:
-                    Power2 pow = new Power2();
-                    pow.Power();
-                    break;
-
-                case 4:
-                    HarmonicNumber har = new HarmonicNumber();
-                    har.Harmonic();
-                    break;
-
-                case 5:
-                    Factors pri = new Factors();
-                    pri.Fact();
-                    break;
             }
         }
     }

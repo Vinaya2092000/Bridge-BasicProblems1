@@ -1,0 +1,5 @@
+C:\Users\vinay\Documents\B-Practice\Bridge-CoreProblems\BCoreProblems\obj\Debug\net6.0\BCoreProblems.csproj.AssemblyReference.cache
+C:\Users\vinay\Documents\B-Practice\Bridge-CoreProblems\BCoreProblems\obj\Debug\net6.0\BCoreProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay\Documents\B-Practice\Bridge-CoreProblems\BCoreProblems\obj\Debug\net6.0\BCoreProblems.AssemblyInfoInputs.cache
+C:\Users\vinay\Documents\B-Practice\Bridge-CoreProblems\BCoreProblems\obj\Debug\net6.0\BCoreProblems.AssemblyInfo.cs
+C:\Users\vinay\Documents\B-Practice\Bridge-CoreProblems\BCoreProblems\obj\Debug\net6.0\BCoreProblems.csproj.CoreCompileInputs.cache
