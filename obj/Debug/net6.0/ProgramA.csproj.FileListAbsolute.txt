@@ -1,0 +1,15 @@
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\bin\Debug\net6.0\ProgramA.exe
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\bin\Debug\net6.0\ProgramA.deps.json
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\bin\Debug\net6.0\ProgramA.runtimeconfig.json
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\bin\Debug\net6.0\ProgramA.dll
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\bin\Debug\net6.0\ProgramA.pdb
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\obj\Debug\net6.0\ProgramA.csproj.AssemblyReference.cache
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\obj\Debug\net6.0\ProgramA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\obj\Debug\net6.0\ProgramA.AssemblyInfoInputs.cache
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\obj\Debug\net6.0\ProgramA.AssemblyInfo.cs
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\obj\Debug\net6.0\ProgramA.csproj.CoreCompileInputs.cache
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\obj\Debug\net6.0\ProgramA.dll
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\obj\Debug\net6.0\refint\ProgramA.dll
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\obj\Debug\net6.0\ProgramA.pdb
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\obj\Debug\net6.0\ProgramA.genruntimeconfig.cache
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram1\ProgramA\obj\Debug\net6.0\ref\ProgramA.dll
